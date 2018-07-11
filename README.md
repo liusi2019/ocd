@@ -3,7 +3,7 @@ Jupyter nodebook with R code for reproducing the experiments in the paper "Open 
 Need to use linux/windows to do isolation forest part. 
 Need to install package btloda from liusi2019/btloda to do bootstrap and out-of-bag LODA part. 
 
-# If you find this useful in your research, please consider citing:
+## If you find this useful in your research, please consider citing:
 
 @inproceedings{liu2018open,
   title={Open Category Detection with PAC Guarantees},	
