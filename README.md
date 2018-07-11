@@ -5,7 +5,7 @@ Need to install package btloda from liusi2019/btloda to do bootstrap and out-of-
 
 ## If you find this useful in your research, please consider citing:
 
-'''
+\\\
 @inproceedings{liu2018open,
   title={Open Category Detection with PAC Guarantees},	
   author={Liu, Si and Garrepalli, Risheek and Dietterich, Thomas and Fern, Alan and Hendrycks, Dan},	
@@ -13,4 +13,4 @@ Need to install package btloda from liusi2019/btloda to do bootstrap and out-of-
   pages={3175--3184},	
   year={2018}	
 }
-'''
+\\\
