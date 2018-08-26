@@ -5,6 +5,8 @@ Need to use linux/windows to do isolation forest part.
 
 Need to install package btloda from liusi2019/btloda to do bootstrap and out-of-bag LODA part. 
 
+This repository is jointly contributed by Si Liu and Risheek Garrepalli.
+
 ## If you find this useful in your research, please consider citing:
 
 ```
